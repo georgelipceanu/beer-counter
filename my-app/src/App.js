@@ -1,4 +1,4 @@
-
+import {Menu} from "./Menu"
 import './App.css';
 
 function App() {
@@ -13,13 +13,7 @@ function App() {
   );
 }
 
-const Menu = () => {
-  <nav>
-    <a>Home</a>
-    <a>Leaderboard</a>
-    <a>Account</a>
-  </nav>
-}
+
 
 
 export default App;
